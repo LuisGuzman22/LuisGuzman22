@@ -15,5 +15,5 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,dynamodb,redis&theme=dark)
 
 ### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,jest,githubactions,gitlab,postman,androidstudio,kubernetes,terraform,docker,kafka,rabitmq,aws,gcp&theme=dark)
+![Others](https://skillicons.dev/icons?i=git,github,jest,githubactions,gitlab,postman,androidstudio,kubernetes,terraform,docker,kafka,aws,gcp&theme=dark)
 
