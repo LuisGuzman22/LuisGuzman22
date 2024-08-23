@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Luis Guzmán 
 
-<!--
-**LuisGuzman22/LuisGuzman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software engineer and ethical hacker with more than 10 years of experience developing projects, advising developers and leading teams.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Technologies
+
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,go,python&theme=dark)](https://skillicons.dev)
+
+### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,angular,next,html,css,tailwind,sass,materialui&theme=dark)
+
+### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,dynamodb,redis&theme=dark)
+
+### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,jest,githubactions,gitlab,postman,androidstudio,kubernetes,terraform,docker,kafka,rabitmq,aws,gcp&theme=dark)
+
